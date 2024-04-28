@@ -1,0 +1,4 @@
+name: keep-inventory
+version: '${project.version}'
+main: org.ichiru.keepinventory.Keepinventory
+api-version: '1.20'
